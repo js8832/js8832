@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @js8832
-- 👀 I’m interested in ...human guy crazy
+- 👀 I’m interested in ...humanist
 - 🌱 I’m currently learning ... LLM ai module 
 - 💞️ I’m looking to collaborate on ... deepseek 
 - 📫 How to reach me ... don't fine me 
