@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...humanist
 - 🌱 I’m currently learning ... LLM ai module 
 - 💞️ I’m looking to collaborate on ... deepseek 
-- 📫 How to reach me ... don't fine me 
+- 📫 How to reach me ... don't looking for me 
 
 <!---
 js8832/js8832 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
