@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @js8832
 - 👀 I’m interested in ...humanist
-- 🌱 I’m currently learning ... LLM ai module 
-- 💞️ I’m looking to collaborate on ... deepseek 
+- 🌱 I’m currently learning ... LLM ai solution
+- 💞️ I’m looking to collaborate on ... deepseek gemini  mcp gateway
 - 📫 How to reach me ... don't looking for me 
 
 <!---
